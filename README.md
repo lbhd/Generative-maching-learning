@@ -1,1 +1,1 @@
-# generative-machine-learning
+# Generative-machine-learning
